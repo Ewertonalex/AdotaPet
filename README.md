@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 ### Desenvolvimento:
 
-#### Classe PetsController:
+#### 📌 Classe PetsController:
 
 Foram criados alguns endpoints que visam cadastrar um novo pet, buscar pets cadastrados ou por Id e Excluir Pet, detalhados a baixo.
 
@@ -90,7 +90,7 @@ Endpoint de Verbo HTTP <strong>GET</strong>, que tem o objetivo buscar Pets cada
 - <strong>/petsdelete/{id}:</strong><br>
 Endpoint de Verbo HTTP <strong>DELETE</strong>, que tem o objetivo de excluir um Pet do sistema, através de seu Id.
 
-#### Classe ClienteController:
+#### 📌 Classe ClienteController:
 
 Foram criados alguns endpoints que visam cadastrar um novos usuários, buscar usuários cadastrados ou por Id e Excluir usuário, detalhados a baixo.
 
@@ -111,4 +111,32 @@ Endpoint de Verbo HTTP <strong>DELETE</strong>, que tem o objetivo de excluir um
 - Postman
 - PostgreSQL
 - Spring Boot
+
+<div align="center">
+  
+
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
+)
+</div>
+
+<div align="center">
+
+### 👏  Projeto realizado por:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/D4D03AQEfv2gYZbR7rw/profile-displayphoto-shrink_400_400/0/1669287148190?e=1675296000&v=beta&t=boAVRYRWPbQjEg6FpSpv8HUSOHFQQyr1qusm62yaja8" width="100px;" alt=""/><br /><sub><b>Ewerton Alexander</b></sub></a><br />👨‍🚀</a></td>
+  
+  <td align="center"><a href="https://www.linkedin.com/in/hufacundo/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGls4LbeiXaVg/profile-displayphoto-shrink_400_400/0/1637622798594?e=1675296000&v=beta&t=-idslwonbEIwRoR4I8xwIaRZlppoCTLyojR8u9pKPBk" width="100px;" alt=""/><br /><sub><b>Hugo Facundo</b></sub></a><br />👨‍🚀</a></td>
+
+  <td align="center"><a href="https://www.linkedin.com/in/luanantony/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFbCw_49MUJ8Q/profile-displayphoto-shrink_400_400/0/1542736109959?e=1675296000&v=beta&t=BENeiwMdamXN9mi5zvwsT6ICIVK5vfcwSF8h_xeSuwc" width="100px;" alt=""/><br /><sub><b>Luan Antony</b></sub></a><br />👨‍🚀</a></td>
+  
+  <td align="center"><a href="https://www.linkedin.com/in/carlosaugustoabsantana/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQEEL2TOdCX55w/profile-displayphoto-shrink_400_400/0/1629849966846?e=1675296000&v=beta&t=xTTNR9MhnRp6mPNOvbRp6ScnoO12T3VHJTFzzxKAi70" width="100px;" alt=""/><br /><sub><b>Luan Antony</b></sub></a><br />👨‍🚀</a></td>
+  
+  <td align="center"><a href="https://www.linkedin.com/in/wagner-patricio-7b4743219/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQEuy2k-ajGG_w/profile-displayphoto-shrink_400_400/0/1653161926881?e=1675296000&v=beta&t=yF2IMvRf9_UWMPrt4oRED4pZI_AEfqcap7DtynYcKyo" width="100px;" alt=""/><br /><sub><b>Luan Antony</b></sub></a><br />👨‍🚀</a></td>
+        
+  </tr>
+</table>
+</div>
 
