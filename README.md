@@ -61,7 +61,7 @@ Abaixo segue imagens do prtótipo (Front-end) do Projeto AdotaPet<br>e um link p
   
 </div>
 
-* <strong>Protótipo</strong><br>Clique para ver o Protótipo<br>prático do projeto 👇 <br>
+* <strong>Protótipo</strong><br><strong>Clique abaixo</strong> para ver o Protótipo<br>prático do projeto 👇 <br>
 [<img src="https://play-lh.googleusercontent.com/7hOg_ahIxf6fVS5uFOqb65vuJN5BarfxAb5r6X20z1KevKVPfGXX7GcfwlVrMBETFaTl" width=115><br>](https://www.figma.com/proto/VfJ8FRem49mSlF67TjqzSL/AdotaPet?node-id=1%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A9)<br>
 
 <div align="center">
@@ -74,6 +74,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 
 # Back-end:
+
+* <strong>Back-end</strong><br><strong>Clique abaixo</strong> para acessar o<br>back-end do projeto 👇 <br>
+[<img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width=115><br>](https://github.com/Ewertonalex/AdotaPet/tree/main/api)<br>
 
 ### Desenvolvimento:
 
