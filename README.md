@@ -47,10 +47,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 Abaixo segue imagens do prtótipo (Front-end) do Projeto AdotaPet<br>e um link para visualizar na prática a funcionalidade em front-end.
 
-<img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/tela%20login.png" width=220>
-<img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/2%20Pets%20para%20ado%C3%A7%C3%A3o.png" width=220>
-<img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/3%20Pet%20escolhido.png" width=220>
-<img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/responsavel.png" width=220>
+<img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/tela%20login.png" width=180>
+<img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/2%20Pets%20para%20ado%C3%A7%C3%A3o.png" width=180>
+<img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/3%20Pet%20escolhido.png" width=180>
+<img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/responsavel.png" width=180>
   
 </div>
 
