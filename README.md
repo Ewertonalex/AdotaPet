@@ -19,6 +19,7 @@ Wagner de Sousa Patrício Junior
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 )
+</div>
 
 # Projeto:
 
@@ -39,13 +40,19 @@ as características dos pets.
 Baseado em geolocalização, o aplicativo apresenta ao usuário os pets disponíveis para
 adoção.
 
+<div align="center">
+  
+
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 )
+</div>
 
-# Projeto:
+# Front-end:
 
 Abaixo segue imagens do prtótipo (Front-end) do Projeto AdotaPet<br>e um link para visualizar na prática a funcionalidade em front-end.
+
+<div align="center">
 
 <img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/tela%20login.png" width=180>
 <img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/2%20Pets%20para%20ado%C3%A7%C3%A3o.png" width=180>
@@ -63,5 +70,45 @@ Abaixo segue imagens do prtótipo (Front-end) do Projeto AdotaPet<br>e um link p
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 )
-# Grupo:
+</div>
+
+
+# Back-end:
+
+### Desenvolvimento:
+
+#### Classe PetsController:
+
+Foram criados alguns endpoints que visam cadastrar um novo pet, buscar pets cadastrados ou por Id e Excluir Pet, detalhados a baixo.
+
+- <strong>/adoteme:</strong><br>
+Endpoint de Verbo HTTP <strong>POST</strong>, que tem o objetivo de cadastrar um novo Pet no sistema;
+- <strong>/pets:</strong><br>
+Endpoint de Verbo HTTP <strong>GET</strong>, que tem o objetivo buscar todos os Pets cadastrados no sistema;
+- <strong>/petsById/{id}:</strong><br>
+Endpoint de Verbo HTTP <strong>GET</strong>, que tem o objetivo buscar Pets cadastrados no sistema por Id;
+- <strong>/petsdelete/{id}:</strong><br>
+Endpoint de Verbo HTTP <strong>DELETE</strong>, que tem o objetivo de excluir um Pet do sistema, através de seu Id.
+
+#### Classe ClienteController:
+
+Foram criados alguns endpoints que visam cadastrar um novos usuários, buscar usuários cadastrados ou por Id e Excluir usuário, detalhados a baixo.
+
+- <strong>/cliente:</strong><br>
+Endpoint de Verbo HTTP <strong>POST</strong>, que tem o objetivo de cadastrar um novo usuário no sistema;
+- <strong>/all:</strong><br>
+Endpoint de Verbo HTTP <strong>GET</strong>, que tem o objetivo buscar todos os usuários cadastrados no sistema;
+- <strong>/clienteById/{id}:</strong><br>
+Endpoint de Verbo HTTP <strong>GET</strong>, que tem o objetivo buscar usuários cadastrados no sistema por Id;
+- <strong>/clientedelete/{id}:</strong><br>
+Endpoint de Verbo HTTP <strong>DELETE</strong>, que tem o objetivo de excluir um usuário do sistema, através de seu Id.
+
+
+### Ferramentas e Tecnologias utilizadas:
+
+- Java
+- IntelliJ IDEA
+- Postman
+- PostgreSQL
+- Spring Boot
 
