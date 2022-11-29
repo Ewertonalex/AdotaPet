@@ -51,9 +51,17 @@ Abaixo segue imagens do prtótipo (Front-end) do Projeto AdotaPet<br>e um link p
 <img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/2%20Pets%20para%20ado%C3%A7%C3%A3o.png" width=220>
 <img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/3%20Pet%20escolhido.png" width=220>
 <img src="https://github.com/Ewertonalex/AdotaPet/blob/main/Front/responsavel.png" width=220>
+  
+</div>
 
-* <strong>Instalar o Git.</strong><br>Clique para ver o Protótipo prático do projeto 👇 <br>
+* <strong>Protótipo</strong><br>Clique para ver o Protótipo<br>prático do projeto 👇 <br>
 [<img src="https://play-lh.googleusercontent.com/7hOg_ahIxf6fVS5uFOqb65vuJN5BarfxAb5r6X20z1KevKVPfGXX7GcfwlVrMBETFaTl" width=115><br>](https://www.figma.com/proto/VfJ8FRem49mSlF67TjqzSL/AdotaPet?node-id=1%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A9)<br>
 
+<div align="center">
+  
 
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
+)
+# Grupo:
 
