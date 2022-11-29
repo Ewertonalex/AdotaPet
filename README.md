@@ -9,12 +9,17 @@ O projeto tem por objetivo, criar um sistema para atender a comunidade, que trag
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 )
+  
+</div>
+
 # Grupo:
-Carlos Augusto Alves Bezerra de Santana  
-Ewerton Alexander de Oliveira Batista  
-Hugo Oliveira Facundo de Almeida<br>
-Luan Antony Rocha de Aguiar  
-Wagner de Sousa Patrício Junior
+- Carlos Augusto Alves Bezerra de Santana  
+- Ewerton Alexander de Oliveira Batista  
+- Hugo Oliveira Facundo de Almeida<br>
+- Luan Antony Rocha de Aguiar  
+- Wagner de Sousa Patrício Junior
+
+<div align="center">
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
